@@ -49,6 +49,7 @@ You don't have to write an answer to the thought questions.
 #### Every
 
 1. Determine if every number is greater than or equal to 2
+
 1. determine if every word shorter than 7 characters
 
 #### Filter
